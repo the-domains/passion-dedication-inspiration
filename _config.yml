@@ -1,5 +1,8 @@
+name: passion dedication inspiration
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.84776
 title: PASSION + DEDICATION + INSPIRATION
-purpose: []
 collections:
   - index:
       path: /
@@ -12,29 +15,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6638502206187695
-  lightness: 0.3887578246649355
-  brandStrength: 1
   brandColors:
     - '#F2F2F2'
     - '#CFCFCF'
     - '#151515'
     - '#777777'
+  brandStrength: 1
+  lightness: 0.3887578246649355
+  saturation: 0.6638502206187695
   rhythmicContrast: 0.6189238068182021
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: passion dedication inspiration
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9736842
-layout_spectrum: 1
+purpose: []
