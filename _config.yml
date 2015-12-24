@@ -1,6 +1,6 @@
 name: passion dedication inspiration
 favicon: null
-layout_spectrum: 0.24955
+layout_spectrum: 1
 typography_spectrum: 0.84776
 title: PASSION + DEDICATION + INSPIRATION
 collections:
@@ -29,10 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F2F2F2'
-    - '#CFCFCF'
-    - '#151515'
-    - '#777777'
+    - '#f2f2f2'
+    - '#cdcdcd'
+    - '#121212'
+    - '#9b9b9b'
+    - '#414141'
   brandStrength: 1
   lightness: 0.25
   saturation: 0.9375
