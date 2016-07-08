@@ -4,14 +4,28 @@
         <description><![CDATA[PASSION + DEDICATION + INSPIRATION]]></description>
         <link>https://thegrid.ai/passion-dedication-inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 09:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 06:59:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/passion-dedication-inspiration/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Bean]]></title>
-            <description><![CDATA[<article><h1>The Bean</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbfe31c7-f582-48b9-91ea-df57358e4aa3.JPG"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbfe31c7-f582-48b9-91ea-df57358e4aa3.JPG">]]></description>
             <link>https://thegrid.ai/passion-dedication-inspiration/the-bean/index.html</link>
             <guid isPermaLink="false">75d613bc-80af-4e11-bf91-ef11a5cf3792</guid>
             <pubDate>Thu, 24 Dec 2015 09:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>PASSION + DEDICATION + INSPIRATION</p>]]></description>
+            <link>https://thegrid.ai/passion-dedication-inspiration/passion-dedication-inspiration/index.html</link>
+            <guid isPermaLink="false">5d5bbc4d-0366-4d32-9d3b-66cb80098db1</guid>
+            <pubDate>Fri, 08 Jul 2016 06:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa7361b-d7cc-4804-9d64-72fc226423d3.JPG">]]></description>
+            <link>https://thegrid.ai/passion-dedication-inspiration/124f9ec8-b33a-417c-a99d-c6954d386ace/index.html</link>
+            <guid isPermaLink="false">124f9ec8-b33a-417c-a99d-c6954d386ace</guid>
+            <pubDate>Thu, 24 Dec 2015 10:04:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
